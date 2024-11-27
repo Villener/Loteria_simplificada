@@ -136,8 +136,8 @@ Jugador 2:
 ## **Notas importantes**
 
 - Cada tablero es de 4x4 y empieza lleno de ceros (`0`).
-- Asegúrate de llenar cada casilla solo una vez. El programa lo controla automáticamente.
-- Usa un sistema operativo con terminal como Windows (con MinGW), Linux o macOS para ejecutar el programa.
+- El programa llena aleatoriamente el tablero de manera automática.
+- Usa un sistema operativo con terminal como Windows (con MinGW un port de gcc), Linux o macOS para ejecutar el programa.
 
 ---
 
