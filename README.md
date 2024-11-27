@@ -1,6 +1,6 @@
 # **Juego de Lotería en C**
 
-Este es un programa de lotería hecho en C, donde dos jugadores compiten por llenar un tablero de 4x4. Cada vez que se genera un número aleatorio, se decide si el Jugador 1 o el Jugador 2 llena una casilla. ¡Gana el jugador que logre llenar su tablero primero!
+Este es un programa sencillo de lotería  mexicana hecho en C, donde dos jugadores compiten por llenar un tablero de 4x4. Cada vez que se genera un número aleatorio, se decide si el Jugador 1 o el Jugador 2 llena una casilla dependiendo si el número es par o impar. Gana el jugador que logre llenar su tablero primero
 
 ---
 
@@ -146,8 +146,6 @@ Jugador 2:
 - Uso de matrices para representar tableros.
 - Generación de números aleatorios con `rand()`.
 - Uso de funciones en C para estructurar el código.
-- Uso de estructuras (si decides implementar jugadores con estructuras en el futuro).
-
 ---
 
 **Creado por:** Jesus Arriaga estudiante UABC 
