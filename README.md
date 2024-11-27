@@ -10,7 +10,7 @@ Este es un programa de lotería hecho en C, donde dos jugadores compiten por lle
 Usa el compilador `gcc` para compilar los archivos del programa. Asegúrate de que los archivos `main.c`, `funciones.c` y `funciones.h` estén en la misma carpeta. Abre la terminal en esa carpeta y escribe:
 
 ```bash
-gcc main.c funciones.c -o loteria
+gcc main.c funciones.c main.c -o loteria
 ```
 
 Esto generará un archivo ejecutable llamado `loteria`.
